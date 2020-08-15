@@ -1,0 +1,36 @@
+C:/mingw64/bin/gcc.exe
+
+C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/bin/Hostx64/x64/cl.exe
+
+
+--------------------------------------------------
+
+# 按照项目名/仓库名搜索（大小写不敏感）
+in:name xxx
+# 按照README搜索（大小写不敏感）
+in:readme xxx
+# 按照description搜索（大小写不敏感）
+in:description xxx
+# stars数大于xxx
+stars:>xxx
+# forks数大于xxx
+forks:>xxx
+# 编程语言为xxx
+language:xxx
+# 最新更新时间晚于YYYY-MM-DD
+pushed:>YYYY-MM-DD
+
+-------------------------------------------------------
+git 安装包 最新 下载 快速 国内 镜像 地址
+https://npm.taobao.org/mirrors/git-for-windows/
+
+-----------------------------------------------------------
+https://www.osgeo.cn/cpython/
+python中文文档
+
+-----------------------------------------------------------
+阿里云 http://mirrors.aliyun.com/pypi/simple/
+清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
+豆瓣(douban) http://pypi.douban.com/simple/
+中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/
+中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
