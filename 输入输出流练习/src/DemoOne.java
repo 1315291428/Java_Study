@@ -1,6 +1,5 @@
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 /**
@@ -20,8 +19,6 @@ public class DemoOne {
                 String s = new String(a, 0, n);//字节数组创建字符串，offset指定数组的起始位置，读取n个字节
                 System.out.print(s);
             }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
