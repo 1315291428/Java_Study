@@ -1,4 +1,3 @@
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 
@@ -7,7 +6,7 @@ import java.io.RandomAccessFile;
  * @Date 2020/8/15 14:13
  * @desc: RandomAccessFile类创建的流称为随机流，两个构造方法：RandomAccessFile(String name,String mode);
  *                                                      RandomAccessFile(File file,String mode);
- *                                                      mode参数取r（只读）rw（可读写）
+ *                                                      mode参数取 r（只读） rw（可读写）
  */
 public class DemoFive {
     public static void main(String args[]){
