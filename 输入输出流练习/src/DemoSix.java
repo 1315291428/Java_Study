@@ -7,7 +7,7 @@ import java.io.RandomAccessFile;
  * @desc: RandomAccessFile流的readLine()方法读取含有非 ascii字符文件时会出现乱码，此代码为解决方法
  */
 public class DemoSix {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         try{
             RandomAccessFile in = new RandomAccessFile("DemoFour.txt","rw");
             long lenth = in.length();//in.length()方法获取文件的长度
