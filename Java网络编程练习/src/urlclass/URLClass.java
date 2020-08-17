@@ -7,7 +7,7 @@ import java.net.URL;
 /**
  * @Author DaWeiGuo
  * @Date 2020/8/17 16:34
- * @desc: 读取url中的资源
+ * @desc: URL类 读取url中的资源
  */
 public class URLClass {
     public static void main(String[] args){
