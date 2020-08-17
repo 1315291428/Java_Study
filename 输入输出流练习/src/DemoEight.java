@@ -34,7 +34,7 @@ public class DemoEight {//写几个java类型的数据到一个文件，然后�
             //UTF是双字节编码，而writeChars方法写入的是按照字符格式写入的，
             //在文件中的占位要小于以Unicode编码的同样字符串，所以，使用readUTF方法读取时，会出现EOF错误
             char c;//所以这里采用一个个读取字符的方法，直到字符串的结束符'\0'结束。
-            while ((c=inData.readChar())!= '\0'){
+            while ((c=inData.readChar())!= '\0'){//此处有EOF错误，未知
                 System.out.print(c);
             }
             inData.close();
