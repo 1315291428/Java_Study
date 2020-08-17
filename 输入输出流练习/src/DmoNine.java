@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * @Author DaWeiGuo
  * @Date 2020/8/17 13:05
- * @desc: 文件锁：有时候会出现几个程序处理一个文件的情况,进行加锁的文件将无法进行操作。
+ * @desc: 文件锁：有时候会出现几个程序处理一个文件的情况，进行加锁的文件将无法进行操作。
  */
 public class DmoNine {
     public static void main(String[] args){
