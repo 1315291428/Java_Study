@@ -16,7 +16,7 @@ public class ZhangSan {
         ReceiveLetterForZhang receiver = new ReceiveLetterForZhang();
         try{
             readData = new Thread(receiver);
-            readData.start();//开启张三用于接受信息的线程。
+            readData.start();//开启张三用于接收信息的线程。
             byte[] buffer = new byte[1];
             InetAddress address = InetAddress.getByName("127.0.0.1");
             //DatagramPacket类的两个构造方法：
