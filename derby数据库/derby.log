@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Aug 22 11:36:05 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0174-143c-d646-000006e139b8 
+on database directory C:\Users\l1768\Desktop\Java_intellij idea\derby数据库\DemoFirst with class loader sun.misc.Launcher$ExtClassLoader@2c7b84de 
+Loaded from file:/C:/Java/jre1.8/lib/ext/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=C:\Users\l1768\Desktop\Java_intellij idea\derby数据库
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
