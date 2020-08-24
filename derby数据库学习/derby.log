@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sun Aug 23 09:38:12 CST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0174-18f7-45c1-000006dd4060 
+Mon Aug 24 10:38:09 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0174-1e54-84f4-000006df51a0 
 on database directory C:\Users\l1768\Desktop\Java_intellij idea\derby数据库\DemoFirst with class loader sun.misc.Launcher$ExtClassLoader@5cad8086 
 Loaded from file:/C:/Java/jdk1.8/jre/lib/ext/derby.jar
 java.vendor=Oracle Corporation
